@@ -15,4 +15,4 @@ To start a container out of the generated image and execute it, run the below co
 
 This will run the container and connect the port 8080 of the local machine to the port 8000 inside the container.
 
-To test it, go to [localhost:8080](https://) and the output will be visible.
+To test it, go to [localhost:8080](http://localhost:8080/) and the output will be visible.
