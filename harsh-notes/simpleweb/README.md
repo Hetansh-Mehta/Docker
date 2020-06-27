@@ -1,6 +1,7 @@
 # README
 ## Build and Run the Image Generated
 
+This is a simple docker project which dockerizes a nodejs web server. The below sections show how to build an image out of the Dockerfile and then create containers out of it.
 ### Build the Image:
 To generate the image using the Dockerfile, run the below command:
 
