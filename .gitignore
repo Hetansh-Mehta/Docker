@@ -2,8 +2,8 @@
 Commands/
 Slides/
 udemy-docker-mastery/
-*.pages
-# *.md
-*.pages
 
+*.pages
 *.pdf
+
+.vscode
